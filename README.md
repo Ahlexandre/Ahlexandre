@@ -9,7 +9,7 @@
 <div>
     
 <ul>
-<li>⚡ I am currently working on an e-commerce site available at http://as-shop.free.nf/ (not up to date). </li>
+<li>⚡ I am currently working on an e-commerce site available at http://as-shop.infinityfreeapp.com/. </li>
 <li>💬 I am looking for any project opportunity</li>
 <li>🔭 I am based in France but will be happy to contribute internationally</li>
 </ul>
