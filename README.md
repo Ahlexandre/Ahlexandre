@@ -32,8 +32,8 @@
 <h2 align="center">Languages & Frameworks & Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,php,python,java,vscode,github,photoshop,r,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,java,windows,linux,photoshop" /><br>
 </div>
 
 <br/>
