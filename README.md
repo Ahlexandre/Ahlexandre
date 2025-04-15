@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alexandre+!;" />
 </h1>
 
-<h3 align="center">Junior computer science student at Paris Panthéon Sorbonne University</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
     
 <ul>
 <li>💬 I am looking for any project opportunity</li>
-<li>🔭 I am based in France but will be happy to contribute internationally</li>
+<li>🌍 I am based in France</li>
 </ul>
  
  </div>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://ahlexandre.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
