@@ -32,8 +32,8 @@
 <h2 align="center">Languages & Frameworks & Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,symfony,react,astro,bootstrap,docker" />
-    <img src="https://skillicons.dev/icons?i=mysql,python,java,linux,ubuntu,git,uml,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,symfony,react,bootstrap,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,java,linux,ubuntu,git,photoshop" /><br>
 </div>
 
 <br/>
