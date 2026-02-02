@@ -44,7 +44,7 @@
 <h2 align="center">Languages & Frameworks & Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,php,symfony,react,bootstrap,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,symfony,react,bootstrap,docker" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,python,java,linux,ubuntu,git,photoshop" />
 </div>
